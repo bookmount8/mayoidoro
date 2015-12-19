@@ -7,8 +7,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-		//“ü—Í’l‚ÌŽæ“¾
-		Integer limit = Integer.valueOf(setInput());
+	Integer limit = Integer.valueOf(setInput());
 
         BigDecimal xba = new BigDecimal(0);;
         BigDecimal xbc = new BigDecimal(0);;
